@@ -1,0 +1,15 @@
+git init // vercionamento de pasta
+
+git add . //adciona alteração
+
+git status //verificar se alteração foi aplicada 
+ 
+git commit // comentar o que foi alterado 
+
+git config --global user.name  ""
+
+git config --global user.email ""
+
+git log
+
+#####################################################
