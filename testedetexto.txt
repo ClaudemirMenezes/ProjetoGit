@@ -1,0 +1,22 @@
+git init // vercionamento de pasta
+
+git add . //adciona alteração
+
+git status //verificar se alteração foi aplicada 
+ 
+git commit // comentar o que foi alterado 
+
+git config --global user.name  ""
+
+git config --global user.email ""
+
+git log
+
+git restore (rastrear e escanear conteúdo)
+
+#####################################################
+
+git branch "(pode ser qualquer nome)develop" // criar uma copia para apresentação 
+
+git checkout develop // mudar para habiente para apresentação sem alterar o projeto official 
+
